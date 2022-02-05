@@ -653,7 +653,7 @@
 ### v4
 
 - Important: Uninstall v1 - v3 Magisk before upgrading with the uninstaller in the OP!!
-- Massive Rewrite Magisk Interface API! All previous mods are NOT compatible! Please download the latest version of the mods you use (root/xposed)
+- Massive Rewrite Magisk Interface API! All23.0 previous mods are NOT compatible! Please download the latest version of the mods you use (root/xposed)
 - Mods are now installed independently in their own subfolder. This paves the way for future Magisk Manager versions to manage mods, **just like how Xposed Modules are handled**
 - Support small boot partition devices (Huawei devices)
 - Use minimal sepolicy patch in boot image for smaller ramdisk size. Live patch policies after bootup
